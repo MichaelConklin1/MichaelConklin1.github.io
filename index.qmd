@@ -1,0 +1,41 @@
+---
+title: "Michael Conklin"
+about: 
+  template: trestles  # jolla  trestles  solana  marquee  broadside
+  image: IMG_5515.jpeg
+  image-width: 15em
+  image-shape: round # rectangle  round  rounded
+  
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/michael-conklin-b417b124a/
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/accounts/onetap/?next=%2F
+    - icon: github
+      text: GitHub
+      href: https://github.com/MichaelConklin1/Michael_Conklin.github.io
+    - icon: file-earmark-pdf
+      text: Resumé
+      href: Resume.pdf
+    - icon: mailbox
+      text: mtc15@geneseo.edu
+      href: mailto:mtc15@geneseo.edu
+
+---
+
+
+Michael Conklin majors in Business Administration at SUNY Geneseo. When not working on Business Administration, Michael enjoys spending time playing soccer.
+
+## Education
+
+State University of New York at Geneseo | Geneseo, NY <br>
+B.S. in Data Analytics | Aug 2022 - May 2026 <br>
+Minor in Business Administration 
+
+## Experience
+
+Starbucks Analytics | Data Analyst Intern | May 2024 - Aug 2024
+
+
